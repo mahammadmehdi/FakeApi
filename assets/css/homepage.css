@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    gap: 100px;
+    background: #e0eafc; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #e0eafc, #cfdef3); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #e0eafc, #cfdef3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

@@ -1,0 +1,30 @@
+{
+    "posts": [
+{   "id": 1,
+    "Ad": "Məhəmməd",
+    "Soyad": "Mehdiyev", 
+    "Spikerlik": "3-cü Spiker"
+},
+
+{       "id": 2,
+        "Ad": "Murad",
+        "Soyad": "Mirzəzadə",
+        "Spikerlik": "1-ci Spiker"
+},
+{       "id": 3,
+        "Ad": "Cahangir",
+        "Soyad": "Yusifov" ,
+        "Spikerlik": "2-ci Spiker"
+},
+{       "id": 4,
+        "Ad": "Şövqü",
+        "Soyad": "Hüseynli" ,
+        "Spikerlik": "3-cü Spiker"
+}
+
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
